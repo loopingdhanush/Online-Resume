@@ -1,0 +1,51 @@
+body{
+    background-color: #FFF8F3;
+    margin: 0;
+}
+
+#intro{
+    background-color: #405D72;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    
+    
+}
+
+#introname{
+    margin: 0;
+    color: #FFF8F3;
+}
+
+
+
+#about,#edu,#skills,#links{
+    text-align: center;
+    border: 5px solid #405D72 ;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+p,h2,img {
+    margin:0;
+    margin-bottom: 10px;
+}
+
+.edulist{
+    text-align: initial;
+    width: max-content;
+    margin-left: 30%;
+    border: 1px soli;
+    
+}
+
+footer{
+    background-color: #405D72;
+    margin: 0;
+    width: 100%;
+    color: #FFF8F3;
+    text-align: center;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+}
